@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justvicthor
-- 👀 I’m interested in C, Python and Machine Learning
+- 👀 I’m interested in C, C++, Python and Machine Learning
 - 🌱 I’m currently learning how to crack the pattern
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Maths-related projects
 - 📫 How to reach me 10794727@polimi.it
 
 <!---
