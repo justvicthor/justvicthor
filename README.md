@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justvicthor
-- 👀 I’m interested in C, C++, Python and Machine Learning
+- 👀 I’m particularly keen about C, C++, Java and Python coding projects
 - 🌱 I’m currently learning how to crack the pattern
 - 💞️ I’m looking to collaborate on Calculus, Algebra, Physics and Bioinformatics related projects
 - 📫 How to reach me 10794727@polimi.it
